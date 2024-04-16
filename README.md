@@ -46,5 +46,12 @@ This Weather App provides users with up-to-date weather information for their cu
   - Chart displays days of the week and corresponding min/max temperatures.
   - List is scrollable to accommodate all days of the week.
 ![alt text](https://github.com/abduvahab/Weather/blob/main/Images/week.png?raw=true)
+
+## How to use
+   -create a flutter project (flutter create project_name)
+   -replace the lib directory with my lib directory
+   -copy the contents of the pubspec.yaml file to your pubspec.yaml file , except the project name 
+   -if you want to create app for android , replace the AndroidManifest.mal file in the path android/app/src/main
+   -final step is to excute command (flutter run )
 ## Conclusion
 This Weather App aims to provide users with a seamless experience in accessing accurate and detailed weather information. With intuitive navigation, clear presentation, and essential features like search and geolocation, users can stay informed about weather conditions wherever they are.
