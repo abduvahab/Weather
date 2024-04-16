@@ -9,7 +9,8 @@ This Weather App provides users with up-to-date weather information for their cu
 1. **Search Bar and Geolocation:**
    - The app features a prominently placed search bar, allowing users to easily input their desired location.
    - Geolocation functionality is also available for quick access to the user's current location.
-
+![alt text](https://github.com/abduvahab/Weather/blob/main/Images/searchbar.png?raw=true)
+![alt text](https://github.com/abduvahab/Weather/blob/main/Images/exceptions.png?raw=true)
 2. **Background Image:**
    - The background image sets the tone for the app, providing relevance without obstructing vital information. It remains fixed across all tabs for consistency.
 
@@ -26,7 +27,7 @@ This Weather App provides users with up-to-date weather information for their cu
 - **Objective:**
   - Provide clear and concise presentation of current weather conditions.
   - Ensure information is visible at first glance, allowing users to understand within 3 seconds.
-
+![alt text](https://github.com/abduvahab/Weather/blob/main/Images/current.png?raw=true)
 ## Today's Weather Tab 
 - **Displayed Information:**
   - Location: City name, region, and country.
@@ -35,7 +36,7 @@ This Weather App provides users with up-to-date weather information for their cu
 - **Specific Rules:**
   - Chart displays hours and temperature.
   - List is scrollable for easy navigation.
-
+![alt text](https://github.com/abduvahab/Weather/blob/main/Images/current.png?raw=true)
 ## Weekly Weather Tab 
 - **Displayed Information:**
   - Location: City name, region, and country.
@@ -44,6 +45,6 @@ This Weather App provides users with up-to-date weather information for their cu
 - **Specific Rules:**
   - Chart displays days of the week and corresponding min/max temperatures.
   - List is scrollable to accommodate all days of the week.
-
+![alt text](https://github.com/abduvahab/Weather/blob/main/Images/week.png?raw=true)
 ## Conclusion
 This Weather App aims to provide users with a seamless experience in accessing accurate and detailed weather information. With intuitive navigation, clear presentation, and essential features like search and geolocation, users can stay informed about weather conditions wherever they are.
