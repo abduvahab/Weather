@@ -48,7 +48,7 @@ This Weather App provides users with up-to-date weather information for their cu
 ![alt text](https://github.com/abduvahab/Weather/blob/main/Images/week.png?raw=true)
 
 ## How to use
-   - **how to run the project**
+- **how to run the project:**
       -create a flutter project (flutter create project_name)
       -replace the lib directory with my lib directory
       -copy the contents of the pubspec.yaml file to your pubspec.yaml file , except the project name 
